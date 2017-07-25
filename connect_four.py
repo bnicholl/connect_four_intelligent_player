@@ -4,6 +4,8 @@
 Created on Thu Jun 15 16:13:45 2017
 
 """
+""" minmax algorithm that intelligent plays connect for"""
+#. if interested in the method I used, here is a quick video on how minmax algo works
 #  https://www.youtube.com/watch?v=zDskcx8FStA
 #  
 import numpy as np
